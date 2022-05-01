@@ -12,4 +12,3 @@ public class MainTest {
         assertThat(result, is(excepted));
     }
 }
-//2
